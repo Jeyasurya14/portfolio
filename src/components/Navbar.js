@@ -38,7 +38,7 @@ const Navbar = () => {
                                 </Link>
                             ))}
                             <a
-                                href="https://github.com/jeyasurya" // Placeholder, user will verify
+                                href="https://github.com/jeyasurya14"
                                 target="_blank"
                                 rel="noopener noreferrer"
                                 className="text-gray-300 hover:text-white transition-colors"

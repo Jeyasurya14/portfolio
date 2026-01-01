@@ -65,11 +65,18 @@ const Contact = () => {
                                 <span className="text-lg">jeyasurya.in@gmail.com</span>
                             </a>
 
-                            <a href="https://github.com/jeyasurya" target="_blank" rel="noopener noreferrer" className="flex items-center gap-4 text-gray-300 hover:text-primary transition-colors">
+                            <a href="https://github.com/jeyasurya14" target="_blank" rel="noopener noreferrer" className="flex items-center gap-4 text-gray-300 hover:text-primary transition-colors">
                                 <div className="w-12 h-12 bg-zinc-800 rounded-full flex items-center justify-center">
                                     <Github size={24} />
                                 </div>
-                                <span className="text-lg">github.com/jeyasurya</span>
+                                <span className="text-lg">github.com/jeyasurya14</span>
+                            </a>
+
+                            <a href="https://www.fiverr.com/s/vvwl9lN" target="_blank" rel="noopener noreferrer" className="flex items-center gap-4 text-gray-300 hover:text-green-500 transition-colors">
+                                <div className="w-12 h-12 bg-zinc-800 rounded-full flex items-center justify-center">
+                                    <span className="font-bold text-xl">fi</span>
+                                </div>
+                                <span className="text-lg">Hire me on Fiverr</span>
                             </a>
 
                             <a href="https://youtube.com/@LearnMadeAcademy" target="_blank" rel="noopener noreferrer" className="flex items-center gap-4 text-gray-300 hover:text-red-500 transition-colors">
